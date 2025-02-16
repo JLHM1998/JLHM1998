@@ -5,7 +5,7 @@
 <a href="https://www.instagram.com/jlhm98/"><img src="https://img.shields.io/badge/-@jlhm98-E4405F?style=flat-square&amp;labelColor=E4405F&amp;logo=Instagram&amp;link=https://www.instagram.com/jlhm98/" alt="Instagram Badge"></a> 
 <a href="https://open.spotify.com/user/12169733138?si=868c6a92e4a8451f"><img src="https://img.shields.io/badge/-@jlhm98-1DB954?style=flat-square&amp;labelColor=1DB954&amp;logo=Spotify&amp;link=https://open.spotify.com/user/12169733138?si=868c6a92e4a8451f" alt="Spotify Badge"></a> 
 <a href="mailto:joluhumu98@gmail.com"><img src="https://img.shields.io/badge/-joluhumu98@gmail.com-c14438?style=flat-square&amp;labelColor=c14438&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:joluhumu98@gmail.com" alt="Gmail Badge"></a></p>
-<img align="right" src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Precision Agriculture GIF" style="width: 200px; height: auto;" />
+<img align="right" src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Precision Agriculture GIF" style="width: 350px; height: 200px;" />
 
 <h3>Research Work</h3>
 <p>I'm actively involved in research related to precision agriculture. Here are some of the papers I have collaborated on:</p>
