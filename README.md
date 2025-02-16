@@ -4,11 +4,12 @@
 <img align="right" src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Precision Agriculture GIF" style="width: 300px; height: auto;" />
 
 <p>
+  <a href="mailto:joluhumu98@gmail.com"><img src="https://img.shields.io/badge/-joluhumu98@gmail.com-c14438?style=flat-square&amp;labelColor=c14438&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:joluhumu98@gmail.com" alt="Gmail Badge"></a>
   <a href="https://www.linkedin.com/in/jlhm98/"><img src="https://img.shields.io/badge/-@jlhm98-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;logoColor=white&amp;link=https://www.linkedin.com/in/jlhm98/" alt="LinkedIn Badge"></a> 
   <a href="https://x.com/Joselhm98"><img src="https://img.shields.io/badge/-@Joselhm98-1DA1F2?style=flat-square&amp;labelColor=1DA1F2&amp;logo=X&amp;link=https://x.com/Joselhm98" alt="X Badge"></a> 
   <a href="https://www.instagram.com/jlhm98/"><img src="https://img.shields.io/badge/-@jlhm98-E4405F?style=flat-square&amp;labelColor=E4405F&amp;logo=Instagram&amp;link=https://www.instagram.com/jlhm98/" alt="Instagram Badge"></a> 
   <a href="https://open.spotify.com/user/12169733138?si=868c6a92e4a8451f"><img src="https://img.shields.io/badge/-@jlhm98-1DB954?style=flat-square&amp;labelColor=1DB954&amp;logo=Spotify&amp;link=https://open.spotify.com/user/12169733138?si=868c6a92e4a8451f" alt="Spotify Badge"></a> 
-  <a href="mailto:joluhumu98@gmail.com"><img src="https://img.shields.io/badge/-joluhumu98@gmail.com-c14438?style=flat-square&amp;labelColor=c14438&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:joluhumu98@gmail.com" alt="Gmail Badge"></a>
+
 </p>
 
 <h3>Research Work</h3>
