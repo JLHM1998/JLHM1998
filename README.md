@@ -9,9 +9,9 @@
 <h3>Research Work</h3>
 <p>I'm actively involved in research related to precision agriculture. Here are some of the papers I have collaborated on:</p>
 <ul>
-  <li><a href="https://www.mdpi.com/2072-4292/17/4/632">Paper 1: "Remote Sensing for Precision Agriculture: Monitoring and Management of Crop Health"</a></li>
-  <li><a href="https://www.mdpi.com/2072-4292/16/20/3882">Paper 2: "Integration of UAV and Satellite Data for Enhanced Agricultural Monitoring"</a></li>
-  <li><a href="https://www.mdpi.com/2072-4292/16/5/796">Paper 3: "Advancements in Precision Agriculture: A Comprehensive Review of Remote Sensing Technologies"</a></li>
+  <li><a href="https://www.mdpi.com/2072-4292/17/4/632">Paper 1: "Rice Yield Prediction Using Spectral and Textural Indices Derived from UAV Imagery and Machine Learning Models in Lambayeque, Peru"</a></li>
+  <li><a href="https://www.mdpi.com/2072-4292/16/20/3882">Paper 2: "Water Use Efficiency in Rice Under Alternative Wetting and Drying Technique Using Energy Balance Model with UAV Information and AquaCrop in Lambayeque, Peru"</a></li>
+  <li><a href="https://www.mdpi.com/2072-4292/16/5/796">Paper 3: "Water Stress Index and Stomatal Conductance under Different Irrigation Regimes with Thermal Sensors in Rice Fields on the Northern Coast of Peru"</a></li>
 </ul>
 
 <img src="https://github-readme-stats.vercel.app/api?username=JLHM1998&show_icons=true&count_private=true" alt="JLHM1998" />
