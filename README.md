@@ -1,72 +1,71 @@
-<h1 align="center">👋 Hey, I'm José Luis Huanuqueño Murillo</h1>
-<h3 align="center">Agricultural Engineer • Remote Sensing Specialist • MSc in Water Resources</h3>
+# José Luis Huanuqueño Murillo
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="280">
-</p>
+**Agricultural Engineer | Remote Sensing Specialist | Water Resources Researcher**  
+**RENACYT – Nivel VII (CONCYTEC, Perú)**  
 
-<p align="center">
-  <a href="mailto:joluhumu98@gmail.com"><img src="https://img.shields.io/badge/Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/jlhm98/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
-  <a href="https://x.com/Joselhm98"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=X&logoColor=white"></a>
-</p>
+I am an Agricultural Engineer and MSc candidate in Water Resources, specializing in **remote sensing**, **UAV–satellite synergy**, **crop water stress (CWSI)**, and **evapotranspiration modeling** (METRIC, TSEB, AquaCrop, FAO-56).  
+My research focuses on applying **precision agriculture**, **thermal/multispectral UAV data**, and **Google Earth Engine** to optimize irrigation, improve water-use efficiency, and support climate-smart agriculture.
 
 ---
 
-## 🚀 About Me  
-I work at the intersection of **remote sensing**, **precision agriculture**, and **water resources**.  
-My research integrates:
-
-- 🛰️ Satellite imagery (Sentinel-2, Landsat 8/9)  
-- 🛩️ UAV thermal & multispectral data  
-- 💧 Evapotranspiration modeling (METRIC, TSEB, AquaCrop)  
-- 🌡️ Crop Water Stress (CWSI)  
-- 🤖 Machine Learning for yield estimation  
-- ☁️ Google Earth Engine (GEE)  
+## 📚 Research Interests
+- Remote Sensing (UAV, Sentinel-2, Landsat 8/9)  
+- Crop Water Stress Index (CWSI)  
+- Evapotranspiration Modeling (METRIC, SEBAL, TSEB, AquaCrop, FAO-56)  
+- Precision Agriculture & Hydrological Applications  
+- Machine Learning for Yield Prediction  
+- Multitemporal Analysis, Texture Indices & Energy Balance  
 
 ---
 
-## 🏆 Achievements
-- **RENACYT – Nivel VII (CONCYTEC)**  
-- **4× Q1 Publications** (*MDPI Remote Sensing*, *Agriculture*)  
-- **Speaker** at IAHR World Congress (Singapore)  
-- **Software Registered (INDECOPI)** → ThermiCAL  
-- **UAV Pilot (DGAC Perú)** — Mavic 3E/3M/3T, Phantom 4 RTK, Matrice 350 RTK  
+## 🏆 Scientific Impact
+- **4 Publicaciones Q1** en *MDPI Remote Sensing* y *Agriculture*  
+- **Presentaciones internacionales:** IAHR World Congress (Singapore), Congreso Latinoamericano de Hidráulica  
+- **Software registrado:** *ThermiCAL* (INDECOPI, 2025)  
+- **Investigador RENACYT VII**  
 
 ---
 
-## 📚 Publications  
-- 🌾 *Rice Yield Prediction with Sentinel-2 + ML* — https://doi.org/10.3390/agriculture15192054  
-- 🛩️ *UAV Spectral & Textural Indices for Yield Modeling* — https://doi.org/10.3390/rs17040632  
-- 💧 *Water Use Efficiency under AWD with UAV Thermal + AquaCrop* — https://doi.org/10.3390/rs16203882  
-- 🌡️ *CWSI & Stomatal Conductance with Thermal Sensors* — https://doi.org/10.3390/rs16050796  
+## 📄 Selected Publications
+### 2025
+- **Field-Scale Rice Yield Prediction Using Sentinel-2 VIs + ML**  
+  *Agriculture* — https://doi.org/10.3390/agriculture15192054
+
+- **Rice Yield Prediction Using UAV Spectral & Textural Indices**  
+  *Remote Sensing* — https://doi.org/10.3390/rs17040632
+
+### 2024  
+- **Water Use Efficiency under AWD Using UAV Thermal + AquaCrop + Energy Balance**  
+  *Remote Sensing* — https://doi.org/10.3390/rs16203882  
+
+### 2023  
+- **Water Stress Index & Stomatal Conductance in Rice Under Different Irrigation Regimes**  
+  *Remote Sensing* — https://doi.org/10.3390/rs16050796  
 
 ---
 
-## 🛠️ Tech Stack
-**Programming:**  
-`Python` · `R` · `Matlab` · `Scikit-Learn` · `Streamlit` · `Rasterio`  
+## 🔬 Current Projects
+### **Ecosmart Rice (PROCIENCIA, 2024–Present)**
+CWSI monitoring with UAV–satellite integration for precision irrigation.
 
-**Remote Sensing / GIS:**  
-`Google Earth Engine` · `ArcGIS` · `QGIS` · `Pix4D`  
+### **Evapotranspiration Modeling for Olives (Tacna, 2025)**
+METRIC validation with AquaCrop and FAO-56.
 
-**Models:**  
-`METRIC` · `SEBAL` · `TSEB` · `AquaCrop` · `FAO-56 PM`  
-
-**UAVs:**  
-`DJI Mavic 3E/3M/3T` · `Phantom 4 RTK` · `Matrice 350 RTK`  
+### **ThermiCAL (INDECOPI Registered)**
+Web tool for radiometric/thermal UAV calibration.
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JLHM1998&show_icons=true&theme=default&count_private=true">
-</p>
+## 🛠️ Technical Skills
+**Remote Sensing & GIS:** GEE, QGIS, ArcGIS, Pix4D  
+**Programming:** Python, R, Matlab, Scikit-Learn, Rasterio, Streamlit  
+**Models:** METRIC, SEBAL, TSEB, AquaCrop, FAO-56 PM  
+**UAV Operation:** DJI Matrice 350 RTK, Mavic 3E/3M/3T, Phantom 4 RTK  
+**Other:** Hydrological analysis, spatial statistics, ML modeling  
 
 ---
 
-## 🌍 Connect with me  
-📧 **Email:** joluhumu98@gmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/jlhm98  
-🐦 **Twitter/X:** https://x.com/Joselhm98  
+## 🔗 Connect
+- **Email:** joluhumu98@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/jlhm98  
+- **GitHub:** https://github.com/JLHM1998  
