@@ -2,7 +2,7 @@
 <h3 align="center">Remote Sensing • Precision Agriculture • Water Resources</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="260">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300">
 </p>
 
 <p align="center">
