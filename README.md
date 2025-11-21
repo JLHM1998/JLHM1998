@@ -1,92 +1,72 @@
-<h2>Hey 👋, I'm <a href="https://www.linkedin.com/in/jlhm98/">José</a></h2>
+<h1 align="center">👋 Hey, I'm José Luis Huanuqueño Murillo</h1>
+<h3 align="center">Agricultural Engineer • Remote Sensing Specialist • MSc in Water Resources</h3>
 
-<p>
-I’m an Agricultural Engineer and graduate student in Water Resources, specializing in <strong>remote sensing, precision agriculture, hydrology and UAV–satellite data fusion</strong>.  
-My work focuses on <strong>crop water stress (CWSI)</strong>, <strong>evapotranspiration modeling (METRIC, TSEB, AquaCrop)</strong>, and <strong>precision irrigation</strong> using drones, Sentinel-2, Landsat 8/9, and Google Earth Engine.
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="280">
 </p>
 
-<img align="right" src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300px">
-
-<p>
-  <a href="mailto:joluhumu98@gmail.com"><img src="https://img.shields.io/badge/-joluhumu98@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/jlhm98/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white"></a>
-  <a href="https://x.com/Joselhm98"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=X&logoColor=white"></a>
-  <a href="https://www.instagram.com/jlhm98/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"></a>
-  <a href="https://github.com/JLHM1998"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"></a>
+<p align="center">
+  <a href="mailto:joluhumu98@gmail.com"><img src="https://img.shields.io/badge/Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/jlhm98/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
+  <a href="https://x.com/Joselhm98"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=X&logoColor=white"></a>
 </p>
 
 ---
 
-## 🔬 Research Focus
+## 🚀 About Me  
+I work at the intersection of **remote sensing**, **precision agriculture**, and **water resources**.  
+My research integrates:
 
-- 🌾 Precision Agriculture  
-- 🛰️ Remote Sensing (Sentinel-2, Landsat 8/9, UAV Multispectral & Thermal)  
-- 💧 Water Resources & Irrigation Efficiency  
-- 🌡️ Evapotranspiration Models (METRIC, SEBAL, TSEB, AquaCrop, FAO-56)  
-- 🌱 Crop Water Stress Index (CWSI)  
+- 🛰️ Satellite imagery (Sentinel-2, Landsat 8/9)  
+- 🛩️ UAV thermal & multispectral data  
+- 💧 Evapotranspiration modeling (METRIC, TSEB, AquaCrop)  
+- 🌡️ Crop Water Stress (CWSI)  
 - 🤖 Machine Learning for yield estimation  
-- 🌍 UAV–Satellite Calibration for Hydrological Modeling  
+- ☁️ Google Earth Engine (GEE)  
 
 ---
 
-## 🏆 Scientific Impact
-
-- **RENACYT — Nivel VII (CONCYTEC, Perú)**  
-- **4 publicaciones indexadas Q1 (MDPI Remote Sensing & Agriculture)**  
-- **Presentaciones en el IAHR World Congress (Singapur) y Congreso Latinoamericano de Hidráulica**  
-- **Software registrado: _ThermiCAL_ (INDECOPI, 2025)**  
-
----
-
-## 📚 Publications (Q1)
-
-### 2025
-- **Field-Scale Rice Yield Prediction Using Sentinel-2 Vegetation Indices and Machine Learning Models**  
-  https://doi.org/10.3390/agriculture15192054
-
-- **Rice Yield Prediction Using Spectral & Textural Indices Derived from UAV Imagery**  
-  https://doi.org/10.3390/rs17040632
-
-### 2024
-- **Water Use Efficiency under AWD Using UAV Thermal Imagery + AquaCrop + Energy Balance Model**  
-  https://doi.org/10.3390/rs16203882
-
-### 2023
-- **Water Stress Index & Stomatal Conductance Under Different Irrigation Regimes with Thermal Sensors**  
-  https://doi.org/10.3390/rs16050796
+## 🏆 Achievements
+- **RENACYT – Nivel VII (CONCYTEC)**  
+- **4× Q1 Publications** (*MDPI Remote Sensing*, *Agriculture*)  
+- **Speaker** at IAHR World Congress (Singapore)  
+- **Software Registered (INDECOPI)** → ThermiCAL  
+- **UAV Pilot (DGAC Perú)** — Mavic 3E/3M/3T, Phantom 4 RTK, Matrice 350 RTK  
 
 ---
 
-## 🚀 Projects
-
-### 🌾 Ecosmart Rice — PROCIENCIA (2024–Present)
-Monitoring CWSI with thermal UAV imagery calibrated with Landsat/GEE to support precision irrigation in Lambayeque.
-
-### 🫒 METRIC + AquaCrop for Olives in Tacna (2025)
-Energy balance modeling with Landsat 8/9, UAV flights, and Davis Pro2 weather stations.
-
-### 🌱 Rice Monitoring (2022–2024)
-UAV + multispectral analysis for water management and GEI reductions.
+## 📚 Publications  
+- 🌾 *Rice Yield Prediction with Sentinel-2 + ML* — https://doi.org/10.3390/agriculture15192054  
+- 🛩️ *UAV Spectral & Textural Indices for Yield Modeling* — https://doi.org/10.3390/rs17040632  
+- 💧 *Water Use Efficiency under AWD with UAV Thermal + AquaCrop* — https://doi.org/10.3390/rs16203882  
+- 🌡️ *CWSI & Stomatal Conductance with Thermal Sensors* — https://doi.org/10.3390/rs16050796  
 
 ---
 
-## 🛠️ Skills & Tech Stack
-
-**Remote Sensing & GIS:**  
-ArcGIS · QGIS · Pix4D · Google Earth Engine
-
+## 🛠️ Tech Stack
 **Programming:**  
-Python · R · Matlab · Power BI · Rasterio · Numpy · Scikit-Learn · Streamlit
+`Python` · `R` · `Matlab` · `Scikit-Learn` · `Streamlit` · `Rasterio`  
 
-**Modeling:**  
-METRIC · SEBAL · TSEB · AquaCrop · FAO-56 Penman–Monteith
+**Remote Sensing / GIS:**  
+`Google Earth Engine` · `ArcGIS` · `QGIS` · `Pix4D`  
 
-**UAV & Photogrammetry:**  
-DJI Mavic 3E/3M/3T · Phantom 4 RTK · Matrice 350 RTK · Thermal & Multispectral workflows · RTK
+**Models:**  
+`METRIC` · `SEBAL` · `TSEB` · `AquaCrop` · `FAO-56 PM`  
+
+**UAVs:**  
+`DJI Mavic 3E/3M/3T` · `Phantom 4 RTK` · `Matrice 350 RTK`  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JLHM1998&show_icons=true&theme=default&count_private=true">
+</p>
 
 ---
 
-## 📈 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=JLHM1998&show_icons=true&count_private=true">
-
----
+## 🌍 Connect with me  
+📧 **Email:** joluhumu98@gmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/jlhm98  
+🐦 **Twitter/X:** https://x.com/Joselhm98  
