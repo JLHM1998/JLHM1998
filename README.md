@@ -10,7 +10,7 @@
   </a>
 </p>
 
-<p align="center"><i>Universidad Nacional Agraria La Molina — Lima, Perú</i></p>
+<p align="center"><i>Universidad Nacional Agraria La Molina (UNALM) — Departamento de Recursos Hídricos · Lima, Perú</i></p>
 
 <p align="center">
   <a href="mailto:joluhumu98@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
@@ -40,6 +40,9 @@ I am an **Agricultural Engineer** and **MSc candidate** at the *Universidad Naci
 
 Recognized by **CONCYTEC (RENACYT — Nivel VI)**, I have co-authored peer-reviewed research on rice water stress, evapotranspiration modeling, and yield prediction under alternative wetting and drying (AWD) regimes in Lambayeque, Perú.
 
+**🔭 Currently working on** — scaling UAV thermal/multispectral workflows to GEE-based multitemporal pipelines for rice and coastal crops, and refining ML yield models with fused Sentinel-2 + UAV datasets.
+**🌱 Open to** — research collaborations, irrigation & water-stress consulting, UAV thermal calibration services, and MSc/PhD co-supervision opportunities.
+
 </details>
 
 <details>
@@ -51,7 +54,22 @@ Soy **Ingeniero Agrícola** y **candidato a MSc** en la *Universidad Nacional Ag
 
 Reconocido por **CONCYTEC (RENACYT — Nivel VI)**, soy coautor de publicaciones científicas sobre estrés hídrico en arroz, modelamiento de evapotranspiración y predicción de rendimiento bajo riego AWD en Lambayeque, Perú.
 
+**🔭 Actualmente** — escalando flujos UAV térmicos/multiespectrales a pipelines multitemporales en GEE para arroz y cultivos de costa, y afinando modelos ML de rendimiento con datasets fusionados Sentinel-2 + UAV.
+**🌱 Abierto a** — colaboraciones de investigación, consultorías en riego y estrés hídrico, servicios de calibración térmica UAV y co-asesoría de tesis MSc/PhD.
+
 </details>
+
+---
+
+## 📈 At a Glance
+
+<p align="center">
+  <img src="https://img.shields.io/badge/📄_Publications-6_Q1-2E8B57?style=for-the-badge">
+  <img src="https://img.shields.io/badge/💾_Registered_Software-1-4285F4?style=for-the-badge">
+  <img src="https://img.shields.io/badge/🛩️_UAV_Platforms-5+-000000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/🌾_Focus_Crop-Rice-B22222?style=for-the-badge">
+  <img src="https://img.shields.io/badge/🏅_RENACYT-Nivel_VI-FF8C00?style=for-the-badge">
+</p>
 
 ---
 
@@ -193,6 +211,10 @@ Thermal workflows feeding METRIC / TSEB energy balance models.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JLHM1998&theme=vue&hide_border=true" height="165">
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JLHM1998&theme=flat&no-frame=true&column=7&margin-w=10" alt="GitHub Trophies">
+</p>
+
 ---
 
 ## 🌍 Let's Connect
@@ -205,5 +227,10 @@ Thermal workflows feeding METRIC / TSEB energy balance models.
 </p>
 
 <p align="center">
-  <i>"Using satellites and drones to grow more food with less water."</i>
+  <i>"Using satellites and drones to grow more food with less water."</i><br>
+  <i>— José Luis Huanuqueño Murillo</i>
+</p>
+
+<p align="center">
+  <sub>⭐ If my work resonates with your research, feel free to connect, cite, or collaborate.</sub>
 </p>
