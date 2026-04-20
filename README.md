@@ -1,69 +1,88 @@
 <p align="center">
-  <img src="banner.png" alt="José Luis Huanuqueño Murillo — Remote Sensing &amp; Precision Agriculture" width="100%">
+  <img src="banner.png" alt="José Luis Huanuqueño Murillo — Remote Sensing & Precision Agriculture" width="100%">
 </p>
 
-<h1 align="center">José Luis Huanuqueño Murillo</h1>
+<h1 align="center" style="font-family: 'IBM Plex Serif', Georgia, serif; letter-spacing: 0.5px;">
+  José&nbsp;Luis&nbsp;Huanuqueño&nbsp;Murillo,&nbsp;M.Sc.&nbsp;<sub><i>(cand.)</i></sub>
+</h1>
 
 <p align="center">
-  <i>Agricultural Engineer · MSc Candidate · Remote Sensing Researcher</i>
+  <sub><i>Agricultural Engineer · Remote Sensing Scientist · Agro-Hydrology Researcher</i></sub>
+</p>
+
+<p align="center">
+  <sub><i>Universidad Nacional Agraria La Molina &nbsp;·&nbsp; Departamento de Recursos Hídricos &nbsp;·&nbsp; Lima, Perú</i></sub>
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Serif&weight=500&size=20&pause=1500&color=1F4E3C&center=true&vCenter=true&width=760&lines=Remote+Sensing+%E2%80%A2+Precision+Agriculture+%E2%80%A2+Water+Resources;UAV+Thermal+%E2%80%A2+Multispectral+%E2%80%A2+RTK+Photogrammetry;Google+Earth+Engine+%E2%80%A2+METRIC+%E2%80%A2+SEBAL+%E2%80%A2+TSEB;Machine+Learning+for+Evapotranspiration+%26+Crop+Yield">
+    <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Serif&weight=400&size=17&pause=2200&color=1F4E3C&center=true&vCenter=true&width=820&lines=Earth+Observation+for+Sustainable+Agriculture;Surface+Energy+Balance+%E2%80%94+METRIC+%C2%B7+SEBAL+%C2%B7+TSEB;UAV+Thermal+%26+Multispectral+Photogrammetry+%28RTK%29;Machine+Learning+for+Evapotranspiration+%26+Crop+Yield" alt="Research themes">
   </a>
 </p>
 
 <p align="center">
-  <sub><i>Universidad Nacional Agraria La Molina (UNALM) · Departamento de Recursos Hídricos · Lima, Perú</i></sub>
-</p>
-
-<p align="center">
-  <a href="mailto:joluhumu98@gmail.com"><img src="https://img.shields.io/badge/Email-1F4E3C?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/jlhm98/"><img src="https://img.shields.io/badge/LinkedIn-1F4E3C?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://scholar.google.com/"><img src="https://img.shields.io/badge/Google%20Scholar-1F4E3C?style=flat-square&logo=googlescholar&logoColor=white" alt="Scholar"></a>
-  <a href="https://orcid.org/"><img src="https://img.shields.io/badge/ORCID-1F4E3C?style=flat-square&logo=orcid&logoColor=white" alt="ORCID"></a>
-  <a href="https://www.researchgate.net/profile/Jose-Huanuqueno-Murillo"><img src="https://img.shields.io/badge/ResearchGate-1F4E3C?style=flat-square&logo=researchgate&logoColor=white" alt="ResearchGate"></a>
+  <a href="mailto:joluhumu98@gmail.com"><img src="https://img.shields.io/badge/Email-1F4E3C?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>&nbsp;
+  <a href="https://www.linkedin.com/in/jlhm98/"><img src="https://img.shields.io/badge/LinkedIn-1F4E3C?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
+  <a href="https://scholar.google.com/"><img src="https://img.shields.io/badge/Google%20Scholar-1F4E3C?style=flat-square&logo=googlescholar&logoColor=white" alt="Scholar"></a>&nbsp;
+  <a href="https://orcid.org/"><img src="https://img.shields.io/badge/ORCID-1F4E3C?style=flat-square&logo=orcid&logoColor=white" alt="ORCID"></a>&nbsp;
+  <a href="https://www.researchgate.net/profile/Jose-Huanuqueno-Murillo"><img src="https://img.shields.io/badge/ResearchGate-1F4E3C?style=flat-square&logo=researchgate&logoColor=white" alt="ResearchGate"></a>&nbsp;
   <a href="https://x.com/Joselhm98"><img src="https://img.shields.io/badge/X-1F4E3C?style=flat-square&logo=x&logoColor=white" alt="X"></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/RENACYT-Nivel%20VI-1F4E3C?style=flat-square" alt="RENACYT">
-  <img src="https://img.shields.io/badge/Based%20in-Lima%2C%20Per%C3%BA-7A1F1F?style=flat-square" alt="Location">
+  <img src="https://img.shields.io/badge/RENACYT-Investigador%20Nivel%20VI-1F4E3C?style=flat-square" alt="RENACYT">&nbsp;
+  <img src="https://img.shields.io/badge/CONCYTEC-Per%C3%BA-7A1F1F?style=flat-square" alt="CONCYTEC">&nbsp;
+  <img src="https://img.shields.io/badge/Based%20in-Lima%2C%20Per%C3%BA-2F2F2F?style=flat-square" alt="Location">&nbsp;
   <img src="https://komarev.com/ghpvc/?username=JLHM1998&label=Profile%20views&color=1F4E3C&style=flat-square" alt="Profile views">
 </p>
 
 <p align="center">
-  <sub><a href="#-english">English</a> · <a href="#-español">Español</a></sub>
+  <sub><a href="#-english">English</a> &nbsp;·&nbsp; <a href="#-español">Español</a></sub>
 </p>
 
 ---
 
-## <a id="-english"></a>🇬🇧 English
+<!-- =============================== ENGLISH =============================== -->
 
-### About
+## <a id="-english"></a>🇬🇧&nbsp; Research Statement
 
-I am an **Agricultural Engineer** and **MSc candidate** at the *Universidad Nacional Agraria La Molina (UNALM)*, conducting research at the intersection of **remote sensing**, **precision agriculture**, and **water resources management**. My work integrates **Sentinel-2 / Landsat 8–9** imagery, **UAV thermal and multispectral data**, **surface energy balance models**, and **machine learning** to advance sustainable irrigation and climate-smart agriculture across Peru's coastal and Andean regions.
+> *"Bringing satellites, drones, and data science together to grow more food with less water across the fragile agroecosystems of Peru."*
 
-Recognized by **CONCYTEC (RENACYT — Nivel VI)**, I have co-authored peer-reviewed studies on rice water stress, evapotranspiration modeling, and yield prediction under alternate wetting and drying (AWD) regimes in Lambayeque, Perú.
+I am an **Agricultural Engineer** and **M.Sc. candidate** at the *Universidad Nacional Agraria La Molina (UNALM)*, working at the crossroads of **Earth Observation**, **precision agriculture**, and **water resources management**. My research integrates **Sentinel-2 / Landsat 8–9** optical and thermal imagery, **UAV-borne thermal and multispectral RTK photogrammetry**, **one- and two-source surface energy balance models** (METRIC · SEBAL · TSEB), and **machine learning** to deliver actionable evapotranspiration, water-stress, and yield information for Peruvian coastal and Andean cropping systems.
 
-> **Current focus** — scaling UAV thermal/multispectral workflows into GEE-based multitemporal pipelines, and refining ML yield models with fused Sentinel-2 + UAV datasets.
->
-> **Open to** — research collaborations, irrigation &amp; water-stress consulting, UAV thermal calibration services, and MSc/PhD co-supervision.
+Recognized by **CONCYTEC (RENACYT — Investigador Nivel VI)**, I have co-authored peer-reviewed contributions published in *Remote Sensing* and *Agriculture* (MDPI, Q1), developed and registered scientific software (**ThermiCAL**, INDECOPI 2025), and contributed to international scientific fora including the **IAHR World Congress** and the **Congreso Latinoamericano de Hidráulica**.
+
+<details>
+<summary><b>Current research thrusts</b></summary>
+
+- Scaling UAV thermal and multispectral workflows into **multitemporal Google Earth Engine pipelines** for large-area monitoring.
+- Developing **fused Sentinel-2 + UAV** machine-learning models for rice yield prediction under **Alternate Wetting and Drying (AWD)** irrigation.
+- Refining **CWSI-based stress diagnostics** and TSEB partitioning for sub-optimally irrigated coastal valleys.
+- Building open, reproducible toolchains (*ThermiCAL*) to democratize UAV thermal calibration across Latin American institutions.
+
+</details>
+
+<details>
+<summary><b>Open to</b></summary>
+
+- Postdoctoral and visiting-researcher opportunities in Earth Observation, agro-hydrology, and precision agriculture.
+- Research collaborations on **evapotranspiration**, **water-stress diagnostics**, and **climate-smart irrigation**.
+- Consulting engagements — **irrigation advisory**, **UAV thermal calibration**, and **multitemporal GEE pipelines**.
+- Co-supervision of M.Sc. / Ph.D. theses on remote sensing for agriculture.
+
+</details>
 
 ---
 
-## <a id="-español"></a>🇪🇸 Español
+<!-- =============================== ESPAÑOL =============================== -->
 
-### Acerca de mí
+## <a id="-español"></a>🇪🇸&nbsp; Perfil Académico
 
-Soy **Ingeniero Agrícola** y **candidato a MSc** en la *Universidad Nacional Agraria La Molina (UNALM)*. Mi investigación integra **teledetección satelital (Sentinel-2 / Landsat 8–9)**, **UAVs térmicos y multiespectrales**, **modelos de balance de energía superficial** y **machine learning** para optimizar el riego y apoyar una agricultura climáticamente inteligente en la costa y sierra del Perú.
+> *"Integrar satélites, drones y ciencia de datos para producir más alimentos usando menos agua en los agroecosistemas frágiles del Perú."*
 
-Reconocido por **CONCYTEC (RENACYT — Nivel VI)**, soy coautor de publicaciones científicas sobre estrés hídrico en arroz, modelamiento de evapotranspiración y predicción de rendimiento bajo riego AWD en Lambayeque, Perú.
+Soy **Ingeniero Agrícola** y **candidato a M.Sc.** en la *Universidad Nacional Agraria La Molina (UNALM)*. Mi línea de investigación se sitúa en la intersección entre la **teledetección**, la **agricultura de precisión** y la **gestión integrada del agua**, combinando imágenes **Sentinel-2 / Landsat 8–9**, **fotogrametría UAV térmica y multiespectral con RTK**, **modelos de balance de energía** (METRIC · SEBAL · TSEB) y **aprendizaje automático** para generar información operativa de evapotranspiración, estrés hídrico y rendimiento en sistemas agrícolas de la costa y sierra peruana.
 
-> **Actualmente** — escalando flujos UAV térmicos/multiespectrales a pipelines multitemporales en GEE, y afinando modelos ML de rendimiento con datasets fusionados Sentinel-2 + UAV.
->
-> **Abierto a** — colaboraciones de investigación, consultorías en riego y estrés hídrico, servicios de calibración térmica UAV y co-asesoría de tesis MSc/PhD.
+Reconocido por **CONCYTEC (RENACYT — Investigador Nivel VI)**, soy coautor de publicaciones en *Remote Sensing* y *Agriculture* (MDPI, Q1), desarrollador de software registrado (**ThermiCAL**, INDECOPI 2025), y ponente en foros internacionales como el **IAHR World Congress** y el **Congreso Latinoamericano de Hidráulica**.
 
 ---
 
@@ -74,9 +93,9 @@ Reconocido por **CONCYTEC (RENACYT — Nivel VI)**, soy coautor de publicaciones
 <td width="50%" valign="top">
 
 **Earth Observation**
-- Satellite remote sensing — Sentinel-2, Landsat 8/9, MODIS
-- UAV thermal &amp; multispectral photogrammetry (RTK)
-- Time-series analysis on Google Earth Engine
+- Optical & thermal remote sensing — Sentinel-2, Landsat 8/9, MODIS
+- UAV thermal & multispectral photogrammetry (RTK)
+- Multitemporal analysis on Google Earth Engine
 
 **Agro-Hydrology**
 - Evapotranspiration — METRIC · SEBAL · TSEB
@@ -86,10 +105,10 @@ Reconocido por **CONCYTEC (RENACYT — Nivel VI)**, soy coautor de publicaciones
 </td>
 <td width="50%" valign="top">
 
-**Machine Learning**
+**Data Science & Machine Learning**
 - Random Forest · XGBoost · SVR for crop yield prediction
-- Spectral &amp; textural feature engineering
-- Data fusion between satellite and UAV sources
+- Spectral & textural feature engineering
+- Multi-source data fusion (satellite ⨯ UAV ⨯ in-situ)
 
 **Climate-Smart Agriculture**
 - Alternate Wetting and Drying (AWD) in rice systems
@@ -102,60 +121,89 @@ Reconocido por **CONCYTEC (RENACYT — Nivel VI)**, soy coautor de publicaciones
 
 ---
 
-## Highlights
+## Career Highlights
 
-| | |
-|:---|:---|
-| 🏅 | **RENACYT — Investigador Nivel VI** (CONCYTEC, Perú) |
-| 📄 | **6 peer-reviewed publications** in Q1 journals — *Remote Sensing* &amp; *Agriculture* (MDPI) |
-| 💾 | **Registered software** — *ThermiCAL* (UAV thermal calibration, INDECOPI 2025) |
-| 🎙️ | **Speaker** — IAHR World Congress · Congreso Latinoamericano de Hidráulica |
-| 🛩️ | **Licensed UAV Pilot (DGAC Perú)** — DJI Mavic 3E/3M/3T · Matrice 350 RTK · Phantom 4 RTK |
-| 🌾 | **Field experience** — Lambayeque · La Molina · Peruvian coastal rice systems |
+<table>
+<tr>
+  <td align="center" width="60">🎓</td>
+  <td><b>M.Sc. candidate</b> — Water Resources, UNALM &nbsp;·&nbsp; <b>B.Sc.</b> in Agricultural Engineering</td>
+</tr>
+<tr>
+  <td align="center">🏅</td>
+  <td><b>RENACYT — Investigador Nivel VI</b>, CONCYTEC, Perú</td>
+</tr>
+<tr>
+  <td align="center">📄</td>
+  <td><b>6 peer-reviewed publications</b> in Q1 MDPI journals — <i>Remote Sensing</i> &amp; <i>Agriculture</i></td>
+</tr>
+<tr>
+  <td align="center">💾</td>
+  <td><b>Registered software</b> — <i>ThermiCAL</i> · UAV thermal calibration toolkit (INDECOPI, 2025)</td>
+</tr>
+<tr>
+  <td align="center">🎙️</td>
+  <td><b>Invited speaker</b> — IAHR World Congress &nbsp;·&nbsp; Congreso Latinoamericano de Hidráulica</td>
+</tr>
+<tr>
+  <td align="center">🛩️</td>
+  <td><b>Licensed UAV pilot (DGAC Perú)</b> — DJI Mavic 3E / 3M / 3T · Matrice 350 RTK · Phantom 4 RTK</td>
+</tr>
+<tr>
+  <td align="center">🌾</td>
+  <td><b>Field experience</b> — Lambayeque · La Molina · Peruvian coastal rice &amp; sugarcane systems</td>
+</tr>
+</table>
 
 ---
 
 ## Selected Publications
 
+<sub><i>Full author list, citations and metrics available on <a href="https://scholar.google.com/">Google Scholar</a> and <a href="https://orcid.org/">ORCID</a>.</i></sub>
+
 <table>
 <thead>
-<tr><th>Year</th><th>Title</th><th>Journal</th><th>DOI</th></tr>
+<tr>
+  <th width="70">Year</th>
+  <th>Contribution</th>
+  <th width="220">Journal</th>
+  <th width="60">DOI</th>
+</tr>
 </thead>
 <tbody>
 <tr>
   <td align="center"><b>2026</b></td>
-  <td>UAV/Satellite remote sensing for agriculture in Peru</td>
-  <td align="center"><i>Remote Sensing</i> 18(6), 856</td>
+  <td><b>UAV &amp; Satellite Remote Sensing for Agriculture in Peru</b><br><sub>Huanuqueño-Murillo, J. L. <i>et al.</i></sub></td>
+  <td align="center"><i>Remote Sensing</i><br><sub>18(6), 856 · Q1</sub></td>
   <td align="center"><a href="https://doi.org/10.3390/rs18060856">🔗</a></td>
 </tr>
 <tr>
   <td align="center"><b>2025</b></td>
-  <td>Precision agriculture &amp; remote sensing applications</td>
-  <td align="center"><i>Agriculture</i> 15(23), 2423</td>
+  <td><b>Precision Agriculture &amp; Remote Sensing Applications</b><br><sub>Huanuqueño-Murillo, J. L. <i>et al.</i></sub></td>
+  <td align="center"><i>Agriculture</i><br><sub>15(23), 2423 · Q1</sub></td>
   <td align="center"><a href="https://doi.org/10.3390/agriculture15232423">🔗</a></td>
 </tr>
 <tr>
   <td align="center"><b>2025</b></td>
-  <td>Sentinel-2 for Rice Yield Prediction using Machine Learning</td>
-  <td align="center"><i>Agriculture</i> 15(19), 2054</td>
+  <td><b>Sentinel-2 for Rice Yield Prediction using Machine Learning</b><br><sub>Huanuqueño-Murillo, J. L. <i>et al.</i></sub></td>
+  <td align="center"><i>Agriculture</i><br><sub>15(19), 2054 · Q1</sub></td>
   <td align="center"><a href="https://doi.org/10.3390/agriculture15192054">🔗</a></td>
 </tr>
 <tr>
   <td align="center"><b>2025</b></td>
-  <td>Rice Yield Prediction using Spectral &amp; Textural Indices from UAV Imagery and ML — Lambayeque</td>
-  <td align="center"><i>Remote Sensing</i> 17(4), 632</td>
+  <td><b>Rice Yield Prediction using Spectral &amp; Textural Indices from UAV Imagery and ML — Lambayeque</b><br><sub>Huanuqueño-Murillo, J. L. <i>et al.</i></sub></td>
+  <td align="center"><i>Remote Sensing</i><br><sub>17(4), 632 · Q1</sub></td>
   <td align="center"><a href="https://doi.org/10.3390/rs17040632">🔗</a></td>
 </tr>
 <tr>
   <td align="center"><b>2024</b></td>
-  <td>Water Use Efficiency in Rice under AWD — UAV Energy Balance + AquaCrop</td>
-  <td align="center"><i>Remote Sensing</i> 16(20), 3882</td>
+  <td><b>Water Use Efficiency in Rice under AWD — UAV Energy Balance + AquaCrop</b><br><sub>Huanuqueño-Murillo, J. L. <i>et al.</i></sub></td>
+  <td align="center"><i>Remote Sensing</i><br><sub>16(20), 3882 · Q1</sub></td>
   <td align="center"><a href="https://doi.org/10.3390/rs16203882">🔗</a></td>
 </tr>
 <tr>
   <td align="center"><b>2024</b></td>
-  <td>Water Stress Index &amp; Stomatal Conductance under Irrigation Regimes — Northern Coast of Peru</td>
-  <td align="center"><i>Remote Sensing</i> 16(5), 796</td>
+  <td><b>Water Stress Index &amp; Stomatal Conductance under Irrigation Regimes — Northern Coast of Peru</b><br><sub>Huanuqueño-Murillo, J. L. <i>et al.</i></sub></td>
+  <td align="center"><i>Remote Sensing</i><br><sub>16(5), 796 · Q1</sub></td>
   <td align="center"><a href="https://doi.org/10.3390/rs16050796">🔗</a></td>
 </tr>
 </tbody>
@@ -163,9 +211,45 @@ Reconocido por **CONCYTEC (RENACYT — Nivel VI)**, soy coautor de publicaciones
 
 ---
 
-## Tech Stack
+## Software & Datasets
 
-<p align="center"><b>Languages &amp; Scientific Computing</b></p>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🛠️ ThermiCAL**
+UAV thermal calibration toolkit for robust CWSI workflows across multiple flight missions.
+<sub>INDECOPI registration — 2025</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**🌐 CWSI – GEE Pipeline**
+Multitemporal water-stress mapping over Peruvian valleys using Landsat 8/9 on Google Earth Engine.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🌾 Rice Yield ML Models**
+Spectral + textural feature engineering with Random Forest &amp; XGBoost for yield estimation in AWD rice.
+
+</td>
+<td width="50%" valign="top">
+
+**🛰️ UAV ET &amp; Stress Monitoring**
+Operational thermal workflows feeding METRIC / TSEB surface energy balance models.
+
+</td>
+</tr>
+</table>
+
+---
+
+## Technical Proficiency
+
+<p align="center"><sub><b>Languages &amp; Scientific Computing</b></sub></p>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white">
@@ -177,7 +261,7 @@ Reconocido por **CONCYTEC (RENACYT — Nivel VI)**, soy coautor de publicaciones
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white">
 </p>
 
-<p align="center"><b>Remote Sensing &amp; GIS</b></p>
+<p align="center"><sub><b>Remote Sensing &amp; GIS</b></sub></p>
 <p align="center">
   <img src="https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=flat-square&logo=google-earth&logoColor=white">
   <img src="https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white">
@@ -187,7 +271,7 @@ Reconocido por **CONCYTEC (RENACYT — Nivel VI)**, soy coautor de publicaciones
   <img src="https://img.shields.io/badge/Agisoft%20Metashape-555555?style=flat-square">
 </p>
 
-<p align="center"><b>Agro-Hydrological Models</b></p>
+<p align="center"><sub><b>Agro-Hydrological Models</b></sub></p>
 <p align="center">
   <img src="https://img.shields.io/badge/METRIC-1E90FF?style=flat-square">
   <img src="https://img.shields.io/badge/SEBAL-2E8B57?style=flat-square">
@@ -196,7 +280,7 @@ Reconocido por **CONCYTEC (RENACYT — Nivel VI)**, soy coautor de publicaciones
   <img src="https://img.shields.io/badge/FAO--56%20PM-B22222?style=flat-square">
 </p>
 
-<p align="center"><b>UAV &amp; Photogrammetry</b></p>
+<p align="center"><sub><b>UAV Platforms &amp; Photogrammetry</b></sub></p>
 <p align="center">
   <img src="https://img.shields.io/badge/DJI%20Mavic%203E%2F3M%2F3T-1F4E3C?style=flat-square&logo=dji&logoColor=white">
   <img src="https://img.shields.io/badge/Matrice%20350%20RTK-1F4E3C?style=flat-square&logo=dji&logoColor=white">
@@ -205,67 +289,35 @@ Reconocido por **CONCYTEC (RENACYT — Nivel VI)**, soy coautor de publicaciones
 
 ---
 
-## Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**ThermiCAL**
-UAV thermal calibration toolkit for CWSI workflows. INDECOPI registered (2025).
-
-</td>
-<td width="50%" valign="top">
-
-**CWSI – GEE Pipeline**
-Multitemporal water stress mapping with Landsat 8/9 on Google Earth Engine.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**Rice Yield ML Models**
-Spectral + textural feature engineering with Random Forest &amp; XGBoost.
-
-</td>
-<td width="50%" valign="top">
-
-**UAV ET &amp; Stress Monitoring**
-Thermal workflows feeding METRIC / TSEB surface energy balance models.
-
-</td>
-</tr>
-</table>
-
----
-
-## GitHub Activity
+## Scholarly Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JLHM1998&show_icons=true&theme=graywhite&count_private=true&include_all_commits=true&hide_border=true&title_color=1F4E3C&icon_color=1F4E3C" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JLHM1998&layout=compact&theme=graywhite&hide_border=true&title_color=1F4E3C" height="160">
+  <img src="https://github-readme-stats.vercel.app/api?username=JLHM1998&show_icons=true&theme=graywhite&count_private=true&include_all_commits=true&hide_border=true&title_color=1F4E3C&icon_color=1F4E3C&text_color=2F2F2F" height="155">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JLHM1998&layout=compact&theme=graywhite&hide_border=true&title_color=1F4E3C&text_color=2F2F2F" height="155">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JLHM1998&theme=graywhite&hide_border=true&stroke=1F4E3C&ring=1F4E3C&fire=1F4E3C&currStreakLabel=1F4E3C" height="160">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JLHM1998&theme=graywhite&hide_border=true&stroke=1F4E3C&ring=1F4E3C&fire=1F4E3C&currStreakLabel=1F4E3C" height="155">
 </p>
 
 ---
 
-## Contact
+## Contact & Collaboration
 
 <p align="center">
   <a href="mailto:joluhumu98@gmail.com"><b>joluhumu98@gmail.com</b></a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/jlhm98">linkedin.com/in/jlhm98</a> &nbsp;·&nbsp;
-  <a href="https://x.com/Joselhm98">x.com/Joselhm98</a> &nbsp;·&nbsp;
-  Lima, Perú
+  <a href="https://x.com/Joselhm98">x.com/Joselhm98</a>
+</p>
+
+<p align="center">
+  <sub><i>Departamento de Recursos Hídricos · Universidad Nacional Agraria La Molina · Av. La Molina s/n, La Molina, Lima 15024, Perú</i></sub>
 </p>
 
 <br>
 
 <p align="center">
-  <i>“Using satellites and drones to grow more food with less water.”</i>
+  <sub><i>"Using satellites and drones to grow more food with less water."</i></sub>
 </p>
 
 <p align="center">
@@ -273,5 +325,5 @@ Thermal workflows feeding METRIC / TSEB surface energy balance models.
 </p>
 
 <p align="center">
-  <sub>If this work resonates with your research, feel free to connect, cite, or collaborate.</sub>
+  <sub>If this research resonates with yours, I would be glad to connect, cite, or collaborate.</sub>
 </p>
