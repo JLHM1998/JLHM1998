@@ -3,11 +3,11 @@
 </p>
 
 <h1 align="center" style="font-family: 'IBM Plex Serif', Georgia, serif; letter-spacing: 0.5px;">
-  José&nbsp;Luis&nbsp;Huanuqueño&nbsp;Murillo,&nbsp;M.Sc.&nbsp;<sub><i>(cand.)</i></sub>
+  José&nbsp;Luis&nbsp;Huanuqueño&nbsp;Murillo
 </h1>
 
 <p align="center">
-  <sub><i>Agricultural Engineer · Remote Sensing Scientist · Agro-Hydrology Researcher</i></sub>
+  <sub><i>M.Sc. Candidate · Agricultural Engineer · Remote Sensing Scientist · Agro-Hydrology Researcher</i></sub>
 </p>
 
 <p align="center">
@@ -15,16 +15,12 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Serif&weight=400&size=17&pause=2200&color=1F4E3C&center=true&vCenter=true&width=820&lines=Earth+Observation+for+Sustainable+Agriculture;Surface+Energy+Balance+%E2%80%94+METRIC+%C2%B7+SEBAL+%C2%B7+TSEB;UAV+Thermal+%26+Multispectral+Photogrammetry+%28RTK%29;Machine+Learning+for+Evapotranspiration+%26+Crop+Yield" alt="Research themes">
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Serif&weight=400&size=17&pause=2200&color=1F4E3C&center=true&vCenter=true&width=820&lines=Earth+Observation+for+Sustainable+Agriculture;Surface+Energy+Balance+%E2%80%94+METRIC+%C2%B7+SEBAL+%C2%B7+TSEB;UAV+Thermal+%26+Multispectral+Photogrammetry+%28RTK%29;Machine+Learning+for+Evapotranspiration+%26+Crop+Yield" alt="Research themes">
 </p>
 
 <p align="center">
   <a href="mailto:joluhumu98@gmail.com"><img src="https://img.shields.io/badge/Email-1F4E3C?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>&nbsp;
   <a href="https://www.linkedin.com/in/jlhm98/"><img src="https://img.shields.io/badge/LinkedIn-1F4E3C?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
-  <a href="https://scholar.google.com/"><img src="https://img.shields.io/badge/Google%20Scholar-1F4E3C?style=flat-square&logo=googlescholar&logoColor=white" alt="Scholar"></a>&nbsp;
-  <a href="https://orcid.org/"><img src="https://img.shields.io/badge/ORCID-1F4E3C?style=flat-square&logo=orcid&logoColor=white" alt="ORCID"></a>&nbsp;
   <a href="https://www.researchgate.net/profile/Jose-Huanuqueno-Murillo"><img src="https://img.shields.io/badge/ResearchGate-1F4E3C?style=flat-square&logo=researchgate&logoColor=white" alt="ResearchGate"></a>&nbsp;
   <a href="https://x.com/Joselhm98"><img src="https://img.shields.io/badge/X-1F4E3C?style=flat-square&logo=x&logoColor=white" alt="X"></a>
 </p>
@@ -37,14 +33,14 @@
 </p>
 
 <p align="center">
-  <sub><a href="#-english">English</a> &nbsp;·&nbsp; <a href="#-español">Español</a></sub>
+  <sub><a href="#english">English</a> &nbsp;·&nbsp; <a href="#espanol">Español</a></sub>
 </p>
 
 ---
 
 <!-- =============================== ENGLISH =============================== -->
 
-## <a id="-english"></a>🇬🇧&nbsp; Research Statement
+## <a id="english"></a>Research Statement
 
 > *"Bringing satellites, drones, and data science together to grow more food with less water across the fragile agroecosystems of Peru."*
 
@@ -52,7 +48,7 @@ I am an **Agricultural Engineer** and **M.Sc. candidate** at the *Universidad Na
 
 Recognized by **CONCYTEC (RENACYT — Investigador Nivel VI)**, I have co-authored peer-reviewed contributions published in *Remote Sensing* and *Agriculture* (MDPI, Q1), developed and registered scientific software (**ThermiCAL**, INDECOPI 2025), and contributed to international scientific fora including the **IAHR World Congress** and the **Congreso Latinoamericano de Hidráulica**.
 
-<details>
+<details open>
 <summary><b>Current research thrusts</b></summary>
 
 - Scaling UAV thermal and multispectral workflows into **multitemporal Google Earth Engine pipelines** for large-area monitoring.
@@ -76,13 +72,33 @@ Recognized by **CONCYTEC (RENACYT — Investigador Nivel VI)**, I have co-author
 
 <!-- =============================== ESPAÑOL =============================== -->
 
-## <a id="-español"></a>🇪🇸&nbsp; Perfil Académico
+## <a id="espanol"></a>Perfil Académico
 
 > *"Integrar satélites, drones y ciencia de datos para producir más alimentos usando menos agua en los agroecosistemas frágiles del Perú."*
 
 Soy **Ingeniero Agrícola** y **candidato a M.Sc.** en la *Universidad Nacional Agraria La Molina (UNALM)*. Mi línea de investigación se sitúa en la intersección entre la **teledetección**, la **agricultura de precisión** y la **gestión integrada del agua**, combinando imágenes **Sentinel-2 / Landsat 8–9**, **fotogrametría UAV térmica y multiespectral con RTK**, **modelos de balance de energía** (METRIC · SEBAL · TSEB) y **aprendizaje automático** para generar información operativa de evapotranspiración, estrés hídrico y rendimiento en sistemas agrícolas de la costa y sierra peruana.
 
 Reconocido por **CONCYTEC (RENACYT — Investigador Nivel VI)**, soy coautor de publicaciones en *Remote Sensing* y *Agriculture* (MDPI, Q1), desarrollador de software registrado (**ThermiCAL**, INDECOPI 2025), y ponente en foros internacionales como el **IAHR World Congress** y el **Congreso Latinoamericano de Hidráulica**.
+
+<details open>
+<summary><b>Líneas de investigación actuales</b></summary>
+
+- Escalamiento de flujos UAV térmicos y multiespectrales hacia **pipelines multitemporales en Google Earth Engine** para monitoreo a gran escala.
+- Desarrollo de modelos de aprendizaje automático con **fusión Sentinel-2 + UAV** para predicción de rendimiento en arroz bajo riego **Alternate Wetting and Drying (AWD)**.
+- Refinamiento de **diagnósticos de estrés basados en CWSI** y particionado TSEB en valles costeros con riego subóptimo.
+- Construcción de herramientas abiertas y reproducibles (*ThermiCAL*) para democratizar la calibración térmica UAV en instituciones latinoamericanas.
+
+</details>
+
+<details>
+<summary><b>Disponibilidad</b></summary>
+
+- Estancias postdoctorales y de investigador visitante en teledetección, agro-hidrología y agricultura de precisión.
+- Colaboraciones en **evapotranspiración**, **diagnóstico de estrés hídrico** e **irrigación climáticamente inteligente**.
+- Consultorías — **asesoría en riego**, **calibración térmica UAV** y **pipelines multitemporales en GEE**.
+- Co-asesoría de tesis de M.Sc. / Ph.D. en teledetección aplicada a la agricultura.
+
+</details>
 
 ---
 
@@ -146,7 +162,7 @@ Reconocido por **CONCYTEC (RENACYT — Investigador Nivel VI)**, soy coautor de 
 </tr>
 <tr>
   <td align="center">🛩️</td>
-  <td><b>Licensed UAV pilot (DGAC Perú)</b> — DJI Mavic 3E / 3M / 3T · Matrice 350 RTK · Phantom 4 RTK</td>
+  <td><b>Licensed UAV pilot (DGAC Perú)</b> — DJI Mavic 3E · 3M · 3T · Matrice 350 RTK · Phantom 4 RTK</td>
 </tr>
 <tr>
   <td align="center">🌾</td>
@@ -158,7 +174,7 @@ Reconocido por **CONCYTEC (RENACYT — Investigador Nivel VI)**, soy coautor de 
 
 ## Selected Publications
 
-<sub><i>Full author list, citations and metrics available on <a href="https://scholar.google.com/">Google Scholar</a> and <a href="https://orcid.org/">ORCID</a>.</i></sub>
+<sub><i>Full author list, citations, and metrics available on <a href="https://www.researchgate.net/profile/Jose-Huanuqueno-Murillo">ResearchGate</a>.</i></sub>
 
 <table>
 <thead>
@@ -285,19 +301,6 @@ Operational thermal workflows feeding METRIC / TSEB surface energy balance model
   <img src="https://img.shields.io/badge/DJI%20Mavic%203E%2F3M%2F3T-1F4E3C?style=flat-square&logo=dji&logoColor=white">
   <img src="https://img.shields.io/badge/Matrice%20350%20RTK-1F4E3C?style=flat-square&logo=dji&logoColor=white">
   <img src="https://img.shields.io/badge/Phantom%204%20RTK-1F4E3C?style=flat-square&logo=dji&logoColor=white">
-</p>
-
----
-
-## Scholarly Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JLHM1998&show_icons=true&theme=graywhite&count_private=true&include_all_commits=true&hide_border=true&title_color=1F4E3C&icon_color=1F4E3C&text_color=2F2F2F" height="155">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JLHM1998&layout=compact&theme=graywhite&hide_border=true&title_color=1F4E3C&text_color=2F2F2F" height="155">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JLHM1998&theme=graywhite&hide_border=true&stroke=1F4E3C&ring=1F4E3C&fire=1F4E3C&currStreakLabel=1F4E3C" height="155">
 </p>
 
 ---
