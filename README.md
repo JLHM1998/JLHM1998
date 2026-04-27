@@ -1,3 +1,10 @@
+<!--
+  README · José Luis Huanuqueño Murillo
+  Design language inspired by top GitHub profiles (Anurag Hazra, Orhun, Caneco, Abhishek Naidu)
+  · brand palette: forest #1F4E3C · terracotta #7A1F1F · charcoal #2F2F2F · ivory #FAFAFA
+  · badge system: for-the-badge (social) + flat-square (tech)  · serif headlines
+-->
+
 <p align="center">
   <img src="banner.png" alt="José Luis Huanuqueño Murillo — Multi-Scale Environmental Monitoring & Flux Measurement System" width="100%">
 </p>
@@ -15,10 +22,10 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Serif&weight=400&size=17&pause=2200&color=1F4E3C&center=true&vCenter=true&width=820&lines=Earth+Observation+for+Sustainable+Agriculture;Surface+Energy+Balance+%E2%80%94+METRIC+%C2%B7+SEBAL+%C2%B7+TSEB;UAV+Thermal+%26+Multispectral+Photogrammetry+(RTK);Machine+Learning+for+Evapotranspiration+%26+Crop+Yield" alt="Research themes">
+  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Serif&weight=400&size=18&pause=2200&color=1F4E3C&center=true&vCenter=true&width=820&lines=Earth+Observation+for+Sustainable+Agriculture;Surface+Energy+Balance+%E2%80%94+METRIC+%C2%B7+SEBAL+%C2%B7+TSEB;UAV+Thermal+%26+Multispectral+Photogrammetry+(RTK);Machine+Learning+for+Evapotranspiration+%26+Crop+Yield" alt="Research themes">
 </p>
 
-<!-- ===================== SOCIAL & ACADEMIC PRESENCE ===================== -->
+<!-- =================== ACADEMIC & SOCIAL PRESENCE =================== -->
 
 <p align="center">
   <a href="mailto:joluhumu98@gmail.com"><img src="https://img.shields.io/badge/Email-1F4E3C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>&nbsp;
@@ -37,33 +44,54 @@
 </p>
 
 <p align="center">
-  <a href="#at-a-glance">At a glance</a> &nbsp;·&nbsp;
-  <a href="#research-statement">Research</a> &nbsp;·&nbsp;
-  <a href="#now--current-focus">Now</a> &nbsp;·&nbsp;
-  <a href="#featured-publication">Featured</a> &nbsp;·&nbsp;
-  <a href="#selected-publications">Publications</a> &nbsp;·&nbsp;
-  <a href="#software--datasets">Software</a> &nbsp;·&nbsp;
-  <a href="#technical-proficiency">Stack</a> &nbsp;·&nbsp;
-  <a href="#open-to-collaborate">Collaborate</a>
+  <a href="#-about-me">About</a> &nbsp;·&nbsp;
+  <a href="#-research-statement">Research</a> &nbsp;·&nbsp;
+  <a href="#-now--current-focus">Now</a> &nbsp;·&nbsp;
+  <a href="#-featured-publication">Featured</a> &nbsp;·&nbsp;
+  <a href="#-selected-publications">Publications</a> &nbsp;·&nbsp;
+  <a href="#-software--datasets">Software</a> &nbsp;·&nbsp;
+  <a href="#-technical-stack">Stack</a> &nbsp;·&nbsp;
+  <a href="#-github-activity">Activity</a> &nbsp;·&nbsp;
+  <a href="#-collaborate">Collaborate</a>
 </p>
 
 ---
 
-## At a glance
+## 👨‍🔬 About me
 
-<table>
-<tr><td align="center" width="56">🎓</td><td><b>M.Sc. candidate</b> — Water Resources Engineering, UNALM &nbsp;·&nbsp; <b>B.Sc.</b> Agricultural Engineering</td></tr>
-<tr><td align="center">🏅</td><td><b>RENACYT — Investigador Nivel VI</b> · CONCYTEC, Perú</td></tr>
-<tr><td align="center">📄</td><td><b>6 peer-reviewed publications</b> in Q1 MDPI journals — <i>Remote Sensing</i> &amp; <i>Agriculture</i></td></tr>
-<tr><td align="center">💾</td><td><b>Registered software</b> — <i>ThermiCAL</i>, UAV thermal calibration toolkit (INDECOPI, 2025)</td></tr>
-<tr><td align="center">🎙️</td><td><b>Invited speaker</b> — IAHR World Congress &nbsp;·&nbsp; Congreso Latinoamericano de Hidráulica</td></tr>
-<tr><td align="center">🛩️</td><td><b>DGAC-licensed UAV pilot</b> — DJI Mavic 3E · 3M · 3T · Matrice 350 RTK · Phantom 4 RTK</td></tr>
-<tr><td align="center">🌾</td><td><b>Field experience</b> — Lambayeque · La Molina · Peruvian coastal rice &amp; sugarcane systems</td></tr>
-</table>
+```yaml
+name:        José Luis Huanuqueño Murillo
+role:        Agricultural Engineer · M.Sc. Candidate
+affiliation: UNALM — Departamento de Recursos Hídricos
+location:    Lima, Perú  🇵🇪
+recognition: RENACYT · Investigador Nivel VI (CONCYTEC)
+
+research:
+  themes:
+    - Earth Observation for sustainable agriculture
+    - UAV thermal & multispectral photogrammetry (RTK)
+    - Surface energy balance — METRIC · SEBAL · TSEB
+    - Machine learning for evapotranspiration & yield
+  field_sites:
+    - Lambayeque · La Molina
+    - Peruvian coastal rice & sugarcane systems
+  current_crop: Oryza sativa (rice) under AWD irrigation
+
+stack:
+  remote_sensing: [Sentinel-2, Landsat 8/9, MODIS, GEE]
+  uav:           [DJI M3E, M3M, M3T, Matrice 350 RTK, P4 RTK]
+  modeling:      [METRIC, SEBAL, TSEB, AquaCrop, FAO-56 PM]
+  data_science:  [Python, R, scikit-learn, XGBoost, RF, SVR]
+
+contact:
+  email:    joluhumu98@gmail.com
+  linkedin: jlhm98
+  rg:       Jose-Huanuqueno-Murillo
+```
 
 ---
 
-## Research statement
+## 🔬 Research statement
 
 > *"Bringing satellites, drones, and data science together to grow more food with less water across the fragile agroecosystems of Peru."*
 
@@ -88,19 +116,21 @@ Reconocido por **CONCYTEC (RENACYT — Investigador Nivel VI)**, soy coautor de 
 
 ---
 
-## Now — current focus
+## 🚀 Now — current focus
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**🛰️ Multitemporal GEE pipelines**  
+**🛰️ Multitemporal GEE pipelines**
+
 Scaling UAV thermal & multispectral workflows into **Google Earth Engine** chains for large-area monitoring across Peruvian coastal valleys.
 
 </td>
 <td width="50%" valign="top">
 
-**🌾 Sentinel-2 + UAV fusion for rice yield**  
+**🌾 Sentinel-2 + UAV fusion for rice yield**
+
 Building **machine-learning models** that fuse satellite and UAV imagery to predict yield under **Alternate Wetting and Drying (AWD)** irrigation.
 
 </td>
@@ -108,13 +138,15 @@ Building **machine-learning models** that fuse satellite and UAV imagery to pred
 <tr>
 <td width="50%" valign="top">
 
-**💧 CWSI & TSEB diagnostics**  
+**💧 CWSI & TSEB diagnostics**
+
 Refining **water-stress diagnostics** and **two-source energy balance** partitioning for sub-optimally irrigated coastal valleys.
 
 </td>
 <td width="50%" valign="top">
 
-**🛠️ Open thermal toolchains**  
+**🛠️ Open thermal toolchains**
+
 Maturing **ThermiCAL** into a reproducible UAV thermal-calibration toolkit, democratizing CWSI workflows across LATAM institutions.
 
 </td>
@@ -123,15 +155,17 @@ Maturing **ThermiCAL** into a reproducible UAV thermal-calibration toolkit, demo
 
 ---
 
-## Featured publication
+## ⭐ Featured publication
 
 <table>
 <tr>
-<td width="120" align="center" valign="top">
+<td width="140" align="center" valign="top">
+
 <sub><b>2026</b></sub><br><br>
 <img src="https://img.shields.io/badge/MDPI-Q1-1F4E3C?style=flat-square" alt="Q1"><br>
 <sub><b>Remote<br>Sensing</b></sub><br>
 <sub>18(6), 856</sub>
+
 </td>
 <td valign="top">
 
@@ -149,7 +183,21 @@ A multi-scale Earth Observation framework integrating **UAV thermal/multispectra
 
 ---
 
-## Research interests
+## 🧭 Career highlights
+
+<table>
+<tr><td align="center" width="56">🎓</td><td><b>M.Sc. candidate</b> — Water Resources Engineering, UNALM &nbsp;·&nbsp; <b>B.Sc.</b> Agricultural Engineering</td></tr>
+<tr><td align="center">🏅</td><td><b>RENACYT — Investigador Nivel VI</b> · CONCYTEC, Perú</td></tr>
+<tr><td align="center">📄</td><td><b>6 peer-reviewed publications</b> in Q1 MDPI journals — <i>Remote Sensing</i> &amp; <i>Agriculture</i></td></tr>
+<tr><td align="center">💾</td><td><b>Registered software</b> — <i>ThermiCAL</i>, UAV thermal calibration toolkit (INDECOPI · 2025)</td></tr>
+<tr><td align="center">🎙️</td><td><b>Invited speaker</b> — IAHR World Congress &nbsp;·&nbsp; Congreso Latinoamericano de Hidráulica</td></tr>
+<tr><td align="center">🛩️</td><td><b>DGAC-licensed UAV pilot</b> — DJI Mavic 3E · 3M · 3T · Matrice 350 RTK · Phantom 4 RTK</td></tr>
+<tr><td align="center">🌾</td><td><b>Field experience</b> — Lambayeque · La Molina · Peruvian coastal rice &amp; sugarcane systems</td></tr>
+</table>
+
+---
+
+## 🎯 Research interests
 
 <table>
 <tr>
@@ -184,7 +232,7 @@ A multi-scale Earth Observation framework integrating **UAV thermal/multispectra
 
 ---
 
-## Selected publications
+## 📚 Selected publications
 
 <sub><i>Full author list, citations, and metrics on <a href="https://www.researchgate.net/profile/Jose-Huanuqueno-Murillo">ResearchGate</a>.</i></sub>
 
@@ -239,20 +287,23 @@ A multi-scale Earth Observation framework integrating **UAV thermal/multispectra
 
 ---
 
-## Software & datasets
+## 💾 Software & datasets
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**🛠️ ThermiCAL**  
-UAV thermal-calibration toolkit for robust CWSI workflows across multi-mission flights.  
+**🛠️ ThermiCAL**
+
+UAV thermal-calibration toolkit for robust CWSI workflows across multi-mission flights.
+
 <sub>INDECOPI registration · 2025</sub>
 
 </td>
 <td width="50%" valign="top">
 
-**🌐 CWSI — GEE pipeline**  
+**🌐 CWSI — GEE pipeline**
+
 Multitemporal water-stress mapping over Peruvian valleys using Landsat 8/9 on Google Earth Engine.
 
 </td>
@@ -260,13 +311,15 @@ Multitemporal water-stress mapping over Peruvian valleys using Landsat 8/9 on Go
 <tr>
 <td width="50%" valign="top">
 
-**🌾 Rice yield ML models**  
+**🌾 Rice yield ML models**
+
 Spectral + textural feature engineering with Random Forest &amp; XGBoost for AWD-rice yield estimation.
 
 </td>
 <td width="50%" valign="top">
 
-**🛰️ UAV ET &amp; stress monitoring**  
+**🛰️ UAV ET &amp; stress monitoring**
+
 Operational thermal workflows feeding METRIC / TSEB surface energy balance models.
 
 </td>
@@ -275,7 +328,7 @@ Operational thermal workflows feeding METRIC / TSEB surface energy balance model
 
 ---
 
-## Technical proficiency
+## 🧰 Technical stack
 
 <p align="center"><sub><b>Languages &amp; scientific computing</b></sub></p>
 <p align="center">
@@ -288,6 +341,7 @@ Operational thermal workflows feeding METRIC / TSEB surface energy balance model
   <img src="https://img.shields.io/badge/XGBoost-EB6C2D?style=flat-square">
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white">
   <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white">
 </p>
 
 <p align="center"><sub><b>Remote sensing &amp; GIS</b></sub></p>
@@ -320,51 +374,83 @@ Operational thermal workflows feeding METRIC / TSEB surface energy balance model
 
 ---
 
-## GitHub activity
+## 📊 GitHub activity
 
 <p align="center">
   <a href="https://github.com/JLHM1998">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=JLHM1998&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=1F4E3C&icon_color=1F4E3C&text_color=2F2F2F&bg_color=FFFFFF" alt="GitHub stats">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=JLHM1998&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=1F4E3C&icon_color=1F4E3C&text_color=2F2F2F&bg_color=FAFAFA" alt="GitHub stats">
   </a>
   <a href="https://github.com/JLHM1998">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JLHM1998&layout=compact&hide_border=true&title_color=1F4E3C&text_color=2F2F2F&bg_color=FFFFFF&langs_count=8" alt="Top languages">
+    <img height="170" src="https://streak-stats.demolab.com/?user=JLHM1998&hide_border=true&background=FAFAFA&stroke=1F4E3C&ring=1F4E3C&fire=7A1F1F&currStreakNum=1F4E3C&sideNums=1F4E3C&currStreakLabel=1F4E3C&sideLabels=2F2F2F&dates=2F2F2F" alt="GitHub streak">
   </a>
 </p>
 
----
-
-## Open to collaborate
-
-- **Postdoctoral & visiting-researcher** opportunities in Earth Observation, agro-hydrology, and precision agriculture.
-- **Joint research** on evapotranspiration, water-stress diagnostics, and climate-smart irrigation.
-- **Consulting engagements** — irrigation advisory · UAV thermal calibration · multitemporal GEE pipelines.
-- **Co-supervision** of M.Sc. / Ph.D. theses on remote sensing for agriculture.
-
----
-
-## Contact
+<p align="center">
+  <a href="https://github.com/JLHM1998">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JLHM1998&layout=compact&hide_border=true&title_color=1F4E3C&text_color=2F2F2F&bg_color=FAFAFA&langs_count=8" alt="Top languages">
+  </a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img height="170" src="https://github-profile-trophy.vercel.app/?username=JLHM1998&theme=flat&no-frame=true&no-bg=true&column=4&margin-w=8&title=Stars,Followers,Commits,Repositories,PullRequest,Issues" alt="GitHub trophies">
+  </a>
+</p>
 
 <p align="center">
-  <a href="mailto:joluhumu98@gmail.com"><b>joluhumu98@gmail.com</b></a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/jlhm98">linkedin.com/in/jlhm98</a> &nbsp;·&nbsp;
-  <a href="https://www.researchgate.net/profile/Jose-Huanuqueno-Murillo">ResearchGate</a> &nbsp;·&nbsp;
-  <a href="https://x.com/Joselhm98">x.com/Joselhm98</a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JLHM1998&bg_color=FAFAFA&color=1F4E3C&line=1F4E3C&point=7A1F1F&area=true&area_color=1F4E3C&hide_border=true&custom_title=Contribution%20activity" alt="Activity graph" width="98%">
 </p>
+
+<!-- Optional: snake graph (requires GitHub Action setup at .github/workflows/snake.yml) -->
+<!--
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JLHM1998/JLHM1998/output/github-snake.svg" alt="snake animation">
+</p>
+-->
+
+---
+
+## 🤝 Collaborate
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🎓 Academic positions**
+- Postdoctoral & visiting-researcher opportunities in Earth Observation, agro-hydrology, and precision agriculture.
+- Co-supervision of M.Sc. / Ph.D. theses on remote sensing for agriculture.
+
+</td>
+<td width="50%" valign="top">
+
+**🤝 Joint research**
+- Evapotranspiration · water-stress diagnostics · climate-smart irrigation.
+- Reproducible toolchains for UAV thermal calibration & GEE pipelines.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**💼 Consulting**
+- Irrigation advisory under deficit & AWD regimes.
+- UAV thermal calibration · multitemporal GEE pipelines.
+
+</td>
+<td width="50%" valign="top">
+
+**📨 Reach me**
+- ✉️ <a href="mailto:joluhumu98@gmail.com">joluhumu98@gmail.com</a>
+- 🔗 <a href="https://www.linkedin.com/in/jlhm98">linkedin.com/in/jlhm98</a>
+- 📚 <a href="https://www.researchgate.net/profile/Jose-Huanuqueno-Murillo">ResearchGate</a>
+
+</td>
+</tr>
+</table>
+
+---
 
 <p align="center">
   <sub><i>Departamento de Recursos Hídricos · Universidad Nacional Agraria La Molina · Av. La Molina s/n, La Molina, Lima 15024, Perú</i></sub>
 </p>
 
-<br>
-
 <p align="center">
-  <sub><i>"Using satellites and drones to grow more food with less water."</i></sub>
-</p>
-
-<p align="center">
-  <sub>— José Luis Huanuqueño Murillo</sub>
-</p>
-
-<p align="center">
-  <sub>If this research resonates with yours, I would be glad to connect, cite, or collaborate.</sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1F4E3C&height=110&section=footer&text=Using%20satellites%20%26%20drones%20to%20grow%20more%20food%20with%20less%20water&fontColor=FAFAFA&fontSize=18&fontAlignY=70&desc=%E2%80%94%20Jos%C3%A9%20Luis%20Huanuque%C3%B1o%20Murillo&descAlignY=88&descSize=12" alt="footer wave" width="100%">
 </p>
